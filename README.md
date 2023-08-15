@@ -3,7 +3,6 @@ Hello My Name is Matheus Ferreira Rocha!
 - 🔭 Looking for a job
 - 🌱 Learning to be a full stack developer
 - 😄 he/his
-- ⚡ I'm a video game addcited 
 
 <div align="center">
   <a href="https://linktr.ee/MatheusFRocha">
